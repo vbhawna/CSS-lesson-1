@@ -1,0 +1,17 @@
+#heading {
+                color: blue;
+}
+
+#para1 {
+    color: darkorange;
+}
+
+.headingTwo {
+    color: darkmagenta;
+    font-size: 20px;
+}
+
+a:hover {
+    /* color: red; */
+    font-weight: 600;
+}
